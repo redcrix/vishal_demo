@@ -1,0 +1,22 @@
+{
+  "name": "vishal",
+  "version": "1.0.0",
+  "description": "hello, this is only for demo",
+  "main": "v.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redcrix/vishal_demo.git"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redcrix/vishal_demo/issues"
+  },
+  "homepage": "https://github.com/redcrix/vishal_demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
